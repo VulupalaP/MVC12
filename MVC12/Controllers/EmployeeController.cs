@@ -9,6 +9,7 @@ namespace MVC12.Controllers
 {
     public class EmployeeController : Controller
     {
+        //To test
         // GET: Employee
         public ActionResult Index()
         {
